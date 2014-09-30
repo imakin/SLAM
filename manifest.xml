@@ -1,0 +1,24 @@
+<package>
+  <description brief="slam_makin">
+
+     slam_makin
+
+  </description>
+  <author>Izzulmakin</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/slam_makin</url>
+	<depend package="std_msgs"/>
+	<depend package="rospy"/>
+	<depend package="roscpp"/>
+	<depend package="sensor_msgs" /> <!-- supaya bisa pake sensor msgs -->
+	<depend package="tf" />
+	<depend package="rospy"/>
+	<depend package="geometry_msgs" />
+	<depend package="visualization_msgs"/>
+	<depend package="nav_msgs"/>
+	<depend package="tf_conversions"/>
+	<depend package="kdl"/>
+</package>
+
+

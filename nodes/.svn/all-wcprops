@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/154/trunk/rbx_vol_1/rbx1_dynamixels/nodes
+END
+dynamixel_joint_state_publisher.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/116/trunk/rbx_vol_1/rbx1_dynamixels/nodes/dynamixel_joint_state_publisher.py
+END
+head_tracker.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/154/trunk/rbx_vol_1/rbx1_dynamixels/nodes/head_tracker.py
+END
+fake_pub.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/60/trunk/rbx_vol_1/rbx1_dynamixels/nodes/fake_pub.py
+END
+relax_all_servos.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/116/trunk/rbx_vol_1/rbx1_dynamixels/nodes/relax_all_servos.py
+END

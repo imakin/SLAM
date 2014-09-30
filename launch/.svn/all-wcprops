@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/113/trunk/rbx_vol_1/rbx1_dynamixels/launch
+END
+head_tracker.launch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/60/trunk/rbx_vol_1/rbx1_dynamixels/launch/head_tracker.launch
+END
+dynamixels.launch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/113/trunk/rbx_vol_1/rbx1_dynamixels/launch/dynamixels.launch
+END
