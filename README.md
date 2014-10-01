@@ -1,4 +1,4 @@
 SLAM
 ====
 
-SLAM with ROS and Kinect
+SLAM with ROS and Kinect,
